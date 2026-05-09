@@ -1,4 +1,4 @@
-# Spam Shield: AI-Powered On-Device Spam Detection
+# 🛡️Spam Shield: AI-Powered On-Device Spam Detection
 
 **Spam Shield** is a privacy-focused mobile application developed using **Flutter** that detects spam in SMS and emails in real-time. Unlike traditional filters that rely on cloud-based processing, Spam Shield utilizes a lightweight, embedded **Machine Learning (SVM)** model to classify messages directly on the device, ensuring 100% user privacy and offline functionality.
 
